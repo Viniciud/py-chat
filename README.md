@@ -2,5 +2,5 @@
 A simple chat project
 
 #For run the project
-- run python server.py
-- run in another terminal client.py as much as you want
+- run `python server.py`
+- run in another terminal `python client.py` as much as you want
